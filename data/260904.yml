@@ -1,11 +1,13 @@
 about:
-  description: blazing fast `ls` replacement with superpowers
+  description:
+  |
+    blazing fast `ls` replacement with superpowers
   license: MIT
   homepage: 
   head: d8c8c77
   archived: false
   latestVersion: v0.6.4
-  collectedAt: 2026-09-04T04:22:16Z
+  collectedAt: 2026-09-04T19:26:39Z
 timeline:
   created: 2023-07-31
   lastCommit: 2026-08-21
@@ -16,7 +18,7 @@ popularity:
   fork: 25
   release: 48
   contributor: 11
-  pullRequest: 7
+  pullRequest: 116
   issue: 57
 language:
   Rust: 1836511
@@ -24,10 +26,18 @@ language:
   PowerShell: 38328
   Elvish: 14954
   Nix: 1800
-totalLine: 1953669
+totalBytes: 1953669
 recent:
   last30d:
     since: 2026-08-05
+    release: 8
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 2
+    openIssue: 2
+    commit: 44
+  last60d:
+    since: 2026-07-06
     release: 8
     mergedPR: 11
     openPR: 0
@@ -58,3 +68,21 @@ recent:
     closedIssue: 11
     openIssue: 2
     commit: 146
+  last720d:
+    since: 2024-09-14
+    release: 37
+    mergedPR: 104
+    openPR: 0
+    closedIssue: 53
+    openIssue: 3
+    commit: 559
+total:
+  release: 48
+  mergedPR: 109
+  openPR: 0
+  closedIssue: 54
+  openIssue: 3
+  commit: 618
+---
+---
+
