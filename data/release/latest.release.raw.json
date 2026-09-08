@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 9999446,
       "digest": "sha256:a4acef763b58eac4ae0d3aeab74f37e7601abd73346ece5a5190b8fd24686aa3",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-21T03:20:46Z",
       "updated_at": "2026-08-21T03:20:47Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/lla_0.6.4_amd64.deb"
