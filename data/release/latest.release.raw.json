@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9944312,
       "digest": "sha256:c882d261249a88db68355a5854a7b4378a65facf7d1649bae0730faede10b911",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-21T03:20:23Z",
       "updated_at": "2026-08-21T03:20:24Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-1.x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 23790072,
       "digest": "sha256:cf9d9739168d4984ccf5b952e81351be298eb1f8c756657a932fcc003f772fa9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-21T03:20:31Z",
       "updated_at": "2026-08-21T03:20:32Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-linux-amd64-musl"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34439293,
       "digest": "sha256:f1d6191b00ae45947a6ece113c7cc9decdc64ecf86d098bbf42350138dce14de",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-21T03:20:53Z",
       "updated_at": "2026-08-21T03:20:54Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-amd64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 32428811,
       "digest": "sha256:7fd8eb5bc43e596f96ea3c34aaefe74f8147f4e0090fb57f60f826d47a6658a4",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-21T03:20:57Z",
       "updated_at": "2026-08-21T03:20:58Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-arm64.zip"
