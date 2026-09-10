@@ -22,11 +22,51 @@ x install lla
 - **Latest**: `v0.6.4` (2026-08-21)
 - **Last commit**: 2026-08-21
 - **Assets in release**: 36
-- **Published**: 2026-08-21T03:21:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [lla-0.6.4-1-aarch64.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-1-aarch64.pkg.tar.zst) | 7.9 MiB | `other` |
+| [lla-0.6.4-1-i686.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-1-i686.pkg.tar.zst) | 4.1 MiB | `other` |
+| [lla-0.6.4-1-x86_64.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-1-x86_64.pkg.tar.zst) | 9.0 MiB | `other` |
+| [lla-0.6.4-1.aarch64.rpm](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-1.aarch64.rpm) | 8.4 MiB | `runtime/rpm/aarch64` |
+| [lla-0.6.4-1.i686.rpm](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-1.i686.rpm) | 4.1 MiB | `runtime/rpm/i686` |
+| [lla-0.6.4-1.x86_64.rpm](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-1.x86_64.rpm) | 9.5 MiB | `runtime/rpm/x86_64` |
+| [lla-0.6.4-r0.aarch64.apk](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-r0.aarch64.apk) | 8.6 MiB | `other` |
+| [lla-0.6.4-r0.x86.apk](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-r0.x86.apk) | 4.2 MiB | `other` |
+| [lla-0.6.4-r0.x86_64.apk](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-r0.x86_64.apk) | 9.8 MiB | `other` |
+| [lla-linux-amd64](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-linux-amd64) | 23.3 MiB | `native/linux/x64` |
+| [lla-linux-amd64-musl](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-linux-amd64-musl) | 22.7 MiB | `native/linux/x64/musl` |
+| [lla-linux-arm64](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-linux-arm64) | 18.4 MiB | `native/linux/arm64` |
+| [lla-linux-arm64-musl](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-linux-arm64-musl) | 17.8 MiB | `native/linux/arm64/musl` |
+| [lla-linux-i686](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-linux-i686) | 8.5 MiB | `native/linux/x86` |
+| [lla-macos-amd64](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-macos-amd64) | 21.6 MiB | `native/darwin/x64` |
+| [lla-macos-arm64](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-macos-arm64) | 17.7 MiB | `native/darwin/arm64` |
+| [lla-netbsd-amd64](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-netbsd-amd64) | 8.9 MiB | `other` |
+| [lla-windows-amd64.exe](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-windows-amd64.exe) | 26.2 MiB | `native/win/x64` |
+| [lla-windows-arm64.exe](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-windows-arm64.exe) | 20.3 MiB | `native/win/arm64` |
+| [lla_0.6.4_amd64.deb](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla_0.6.4_amd64.deb) | 9.5 MiB | `runtime/deb/amd64` |
+| [lla_0.6.4_arm64.deb](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla_0.6.4_arm64.deb) | 8.5 MiB | `runtime/deb/arm64` |
+| [lla_0.6.4_i386.deb](https://github.com/chaqchase/lla/releases/download/v0.6.4/lla_0.6.4_i386.deb) | 4.1 MiB | `runtime/deb/i386` |
+| [plugins-linux-amd64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-amd64.tar.gz) | 33.0 MiB | `native/linux/x64` |
+| [plugins-linux-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-amd64.zip) | 32.8 MiB | `native/linux/x64` |
+| [plugins-linux-arm64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-arm64.tar.gz) | 31.0 MiB | `native/linux/arm64` |
+| [plugins-linux-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-arm64.zip) | 30.9 MiB | `native/linux/arm64` |
+| [plugins-linux-i686.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-i686.tar.gz) | 33.2 MiB | `native/linux/x86` |
+| [plugins-linux-i686.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-i686.zip) | 33.0 MiB | `native/linux/x86` |
+| [plugins-macos-amd64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-macos-amd64.tar.gz) | 33.8 MiB | `native/darwin/x64` |
+| [plugins-macos-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-macos-amd64.zip) | 33.7 MiB | `native/darwin/x64` |
+| [plugins-macos-arm64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-macos-arm64.tar.gz) | 32.1 MiB | `native/darwin/arm64` |
+| [plugins-macos-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-macos-arm64.zip) | 32.0 MiB | `native/darwin/arm64` |
+| [plugins-windows-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-windows-amd64.zip) | 31.4 MiB | `native/win/x64` |
+| [plugins-windows-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-windows-arm64.zip) | 29.1 MiB | `native/win/arm64` |
+| [SHA256SUMS](https://github.com/chaqchase/lla/releases/download/v0.6.4/SHA256SUMS) | 3.0 KiB | `other` |
+| [themes.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/themes.zip) | 32.4 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 1,222 · **Forks**: 25 · **Open issues**: 57 · **Contributors**: 11
+- **Stars**: 1,223 · **Forks**: 25 · **Open issues**: 57 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -57,8 +97,8 @@ Total: **57,537** lines of code across **247** files in the top 5 languages.
 Install metadata for lla lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lla` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/lla.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/lla.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:58Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:14:45Z._
