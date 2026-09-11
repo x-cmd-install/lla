@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10297649,
       "digest": "sha256:dfacd62b45c96edc327c1f65d3e77239a65cfc5e32719cc7c7d762ccdc2192ef",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-21T03:20:27Z",
       "updated_at": "2026-08-21T03:20:28Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-0.6.4-r0.x86_64.apk"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 27510272,
       "digest": "sha256:d592b300ead372fe56b7abf942fe5bc4114aeeef87acd202fcdb8f9b5932ecc9",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-21T03:20:42Z",
       "updated_at": "2026-08-21T03:20:44Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-windows-amd64.exe"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34439293,
       "digest": "sha256:f1d6191b00ae45947a6ece113c7cc9decdc64ecf86d098bbf42350138dce14de",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-21T03:20:53Z",
       "updated_at": "2026-08-21T03:20:54Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-amd64.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 34784438,
       "digest": "sha256:90a58d5ce0f37c3ef5698015f629e62dfdfa256ddcd284341bb08715b706cd8c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-21T03:20:59Z",
       "updated_at": "2026-08-21T03:21:00Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-i686.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 35324367,
       "digest": "sha256:3b17ada746533d2ab9189efefd979f4e9e68b11d4125b6c1a30a48a1fb22f1a3",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-21T03:21:05Z",
       "updated_at": "2026-08-21T03:21:06Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-macos-amd64.zip"
