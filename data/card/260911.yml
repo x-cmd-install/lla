@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.4"
   latestRelease: "v0.6.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:12:57Z
+  collectedAt: 2026-09-11T04:39:46Z
 timeline:
   created: 2023-07-31
   lastCommit: 2026-08-21
@@ -87,7 +87,7 @@ total:
   commit: 618
 ---
 path: /home/runner/.x-repo/github.com/chaqchase/lla
-collectedAt: 2026-09-11T00:13:01Z
+collectedAt: 2026-09-11T04:39:50Z
 loc:
   Rust:
     code: 48690
@@ -152,27 +152,23 @@ total:
 ---
 
 ---
+  - libproject_context.so
+  - README.md
+  - plugin.toml
+  - checksums.toml
   - README.md
   - libnpm.so
   - plugin.toml
   - checksums.toml
   - README.md
-  - plugin.toml
-  - libfile_organizer.so
-  - checksums.toml
-  - libfile_remover.so
-  - README.md
+  - libspeed_test.so
   - plugin.toml
   - checksums.toml
   - README.md
   - plugin.toml
+  - libbrew.so
   - checksums.toml
-  - libfile_tagger.so
-  - README.md
-  - plugin.toml
-  - checksums.toml
-  - libproject_context.so
-  - libfile_copier.so
+  - libchange_risk.so
   - README.md
   - plugin.toml
   - checksums.toml
@@ -181,55 +177,31 @@ total:
   - plugin.toml
   - checksums.toml
   - README.md
-  - libpreview.so
-  - plugin.toml
-  - checksums.toml
-  - libsecurity_audit.so
-  - README.md
+  - libgit_status.so
   - plugin.toml
   - checksums.toml
   - README.md
-  - libcategorizer.so
+  - libfile_meta.so
   - plugin.toml
   - checksums.toml
   - README.md
+  - plugin.toml
   - libkeyword_search.so
-  - plugin.toml
   - checksums.toml
-  - README.md
-  - libspeed_test.so
-  - plugin.toml
-  - checksums.toml
-  - libbrew.so
+  - libfile_remover.so
   - README.md
   - plugin.toml
   - checksums.toml
   - README.md
-  - liblast_git_commit.so
+  - libcode_complexity.so
   - plugin.toml
   - checksums.toml
-  - libreclaimable_space.so
+  - libtree_summary.so
   - README.md
   - plugin.toml
   - checksums.toml
   - README.md
-  - plugin.toml
-  - libfolder_cleaner.so
-  - checksums.toml
-  - README.md
-  - libdirs_meta.so
-  - plugin.toml
-  - checksums.toml
-  - libhackernews.so
-  - README.md
-  - plugin.toml
-  - checksums.toml
-  - README.md
-  - libduplicate_file_detector.so
-  - plugin.toml
-  - checksums.toml
   - libkill_process.so
-  - README.md
   - plugin.toml
   - checksums.toml
   - README.md
@@ -237,31 +209,59 @@ total:
   - plugin.toml
   - checksums.toml
   - README.md
+  - plugin.toml
+  - libcategorizer.so
+  - checksums.toml
+  - README.md
+  - plugin.toml
+  - libfile_organizer.so
+  - checksums.toml
+  - libmedia_inspector.so
+  - README.md
+  - plugin.toml
+  - checksums.toml
+  - README.md
+  - plugin.toml
+  - libfile_tagger.so
+  - checksums.toml
+  - README.md
+  - plugin.toml
+  - libhackernews.so
+  - checksums.toml
+  - README.md
+  - plugin.toml
+  - libfolder_cleaner.so
+  - checksums.toml
+  - README.md
+  - plugin.toml
+  - libcode_snippet_extractor.so
+  - checksums.toml
+  - README.md
+  - plugin.toml
+  - libfile_hash.so
+  - checksums.toml
+  - README.md
   - libjwt.so
   - plugin.toml
   - checksums.toml
-  - libgit_status.so
+  - README.md
+  - plugin.toml
+  - libpreview.so
+  - checksums.toml
+  - README.md
+  - libgoogle_meet.so
+  - plugin.toml
+  - checksums.toml
+  - README.md
+  - libreclaimable_space.so
+  - plugin.toml
+  - checksums.toml
+  - libsecurity_audit.so
   - README.md
   - plugin.toml
   - checksums.toml
   - README.md
-  - plugin.toml
-  - libtrash.so
-  - checksums.toml
-  - README.md
-  - plugin.toml
-  - libfile_meta.so
-  - checksums.toml
-  - libcode_complexity.so
-  - README.md
-  - plugin.toml
-  - checksums.toml
-  - libcode_snippet_extractor.so
-  - README.md
-  - plugin.toml
-  - checksums.toml
-  - README.md
-  - libactivity_history.so
+  - libsizeviz.so
   - plugin.toml
   - checksums.toml
   - README.md
@@ -269,34 +269,34 @@ total:
   - plugin.toml
   - checksums.toml
   - README.md
-  - libtree_summary.so
+  - libdirs_meta.so
   - plugin.toml
   - checksums.toml
   - README.md
+  - libactivity_history.so
+  - plugin.toml
+  - checksums.toml
+  - liblast_git_commit.so
+  - README.md
+  - plugin.toml
+  - checksums.toml
+  - libtrash.so
+  - README.md
+  - plugin.toml
+  - checksums.toml
+  - README.md
+  - libfile_copier.so
+  - plugin.toml
+  - checksums.toml
   - libremove_paywall.so
-  - plugin.toml
-  - checksums.toml
-  - libsizeviz.so
   - README.md
   - plugin.toml
   - checksums.toml
   - README.md
-  - libgoogle_meet.so
-  - plugin.toml
-  - checksums.toml
-  - libchange_risk.so
-  - README.md
-  - plugin.toml
-  - checksums.toml
   - libyoutube.so
-  - README.md
   - plugin.toml
   - checksums.toml
   - README.md
-  - libfile_hash.so
+  - libduplicate_file_detector.so
   - plugin.toml
-  - checksums.toml
-  - README.md
-  - plugin.toml
-  - libmedia_inspector.so
   - checksums.toml
