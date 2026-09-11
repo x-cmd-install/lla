@@ -12,6 +12,18 @@ blazing fast `ls` replacement with superpowers
 x install lla
 ```
 
+## Code insight
+
+Total: **57,537** lines of code across **247** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 48,690 | 377 | 5,197 | 127 |
+| Toml | 6,479 | 16 | 961 | 111 |
+| Bash | 681 | 0 | 3 | 1 |
+| Sh | 536 | 19 | 64 | 5 |
+| PowerShell | 508 | 2 | 23 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/chaqchase/lla>
@@ -22,6 +34,25 @@ x install lla
 - **Latest**: `v0.6.4` (2026-08-21)
 - **Last commit**: 2026-08-21
 - **Assets in release**: 36
+
+## Popularity
+
+- **Stars**: 1,223 · **Forks**: 25 · **Open issues**: 57 · **Contributors**: 11
+
+## Totals (cumulative)
+
+- **Releases**: 48 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 54 · **Open issues**: 3 · **Commits**: 618
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 8 | 11 | 0 | 2 | 2 | 44 |
+| last60d | 2026-07-13 | 8 | 11 | 0 | 2 | 2 | 44 |
+| 90d | 2026-06-13 | 10 | 14 | 0 | 3 | 2 | 52 |
+| last180d | 2026-03-15 | 13 | 20 | 0 | 4 | 2 | 74 |
+| 360d | 2025-09-16 | 20 | 35 | 0 | 11 | 2 | 131 |
+| last720d | 2024-09-21 | 37 | 104 | 0 | 53 | 3 | 559 |
 
 ## Release assets
 
@@ -64,34 +95,6 @@ x install lla
 | [SHA256SUMS](https://github.com/chaqchase/lla/releases/download/v0.6.4/SHA256SUMS) | 3.0 KiB | `other` |
 | [themes.zip](https://github.com/chaqchase/lla/releases/download/v0.6.4/themes.zip) | 32.4 KiB | `other` |
 
-## Popularity
-
-- **Stars**: 1,223 · **Forks**: 25 · **Open issues**: 57 · **Contributors**: 11
-
-## Totals (cumulative)
-
-- **Releases**: 48 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 54 · **Open issues**: 3 · **Commits**: 618
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 11 | 0 | 2 | 2 | 44 |
-| 90d | 2026-06-12 | 10 | 14 | 0 | 3 | 2 | 52 |
-| 360d | 2025-09-15 | 20 | 37 | 0 | 11 | 2 | 131 |
-
-## Code size
-
-Total: **57,537** lines of code across **247** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 48,690 | 377 | 5,197 | 127 |
-| Toml | 6,479 | 16 | 961 | 111 |
-| Bash | 681 | 0 | 3 | 1 |
-| Sh | 536 | 19 | 64 | 5 |
-| PowerShell | 508 | 2 | 23 | 3 |
-
 ## Improve this data
 
 Install metadata for lla lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lla` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +104,4 @@ Install metadata for lla lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:14:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:07Z._
