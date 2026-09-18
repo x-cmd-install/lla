@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 18569216,
       "digest": "sha256:1a85887d761ed244a3c94fdd98230f01a499cd77d3f680bd3661216d17f040f9",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-21T03:20:39Z",
       "updated_at": "2026-08-21T03:20:40Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/lla-macos-arm64"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34439293,
       "digest": "sha256:f1d6191b00ae45947a6ece113c7cc9decdc64ecf86d098bbf42350138dce14de",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-08-21T03:20:53Z",
       "updated_at": "2026-08-21T03:20:54Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.4/plugins-linux-amd64.zip"
