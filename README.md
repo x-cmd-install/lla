@@ -4,7 +4,7 @@
 
 blazing fast `ls` replacement with superpowers
 
-![lla](https://repo.x-cmd.io/lla.svg)
+[![x-cmd/install — lla Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lla.svg)](https://x-cmd.com/install/lla)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **57,537** lines of code across **247** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 4 | 0 | 0 | 2 | 3 |
-| last60d | 2026-07-20 | 8 | 11 | 0 | 2 | 2 | 44 |
-| 90d | 2026-06-20 | 10 | 14 | 0 | 3 | 2 | 52 |
-| last180d | 2026-03-22 | 13 | 20 | 0 | 4 | 2 | 74 |
-| 360d | 2025-09-23 | 18 | 33 | 0 | 11 | 2 | 125 |
-| last720d | 2024-09-28 | 37 | 104 | 0 | 53 | 3 | 559 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 8 | 11 | 0 | 2 | 2 | 44 |
+| 90d | 2026-06-22 | 10 | 14 | 0 | 3 | 2 | 52 |
+| last180d | 2026-03-24 | 13 | 20 | 0 | 4 | 2 | 74 |
+| 360d | 2025-09-25 | 18 | 33 | 0 | 11 | 2 | 125 |
+| last720d | 2024-09-30 | 37 | 104 | 0 | 53 | 3 | 559 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for lla lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:42:06Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:09:24Z._
