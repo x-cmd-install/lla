@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8327591,
       "digest": "sha256:9bdce8ab058a1728df3b4e585655b707a464d6e9b783c3c5fe710457af9e7242",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-21T12:58:29Z",
       "updated_at": "2026-09-21T12:58:30Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.5/lla-0.6.5-1-aarch64.pkg.tar.zst"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9480826,
       "digest": "sha256:375f68a15d0de7732f028ec83915d7915d14e8e529dbc3d1243c8a14fb9fe01b",
-      "download_count": 29,
+      "download_count": 32,
       "created_at": "2026-09-21T12:58:33Z",
       "updated_at": "2026-09-21T12:58:33Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.5/lla-0.6.5-1-x86_64.pkg.tar.zst"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34445288,
       "digest": "sha256:f332c8bb8cb5d48b8b544f6c16cf4dc023f1bf696dfbc2a2a9d82fcb68c98f45",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-21T12:59:14Z",
       "updated_at": "2026-09-21T12:59:15Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.5/plugins-linux-amd64.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 35329520,
       "digest": "sha256:0e4009056317672cbefdda95d5257431bc44667ad3b6ea1e66ac9e325d3d34e2",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-21T12:59:29Z",
       "updated_at": "2026-09-21T12:59:31Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.5/plugins-macos-amd64.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 3097,
       "digest": "sha256:b970a77fd3346c414bc587943476e1e28bf8b73b7fdc0e5b66f4fe3ca979575c",
-      "download_count": 44,
+      "download_count": 48,
       "created_at": "2026-09-21T12:58:28Z",
       "updated_at": "2026-09-21T12:58:28Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.5/SHA256SUMS"
