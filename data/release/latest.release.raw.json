@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9456441,
       "digest": "sha256:00eb6693d13421e9233ff9b1dfc77925b42e7f950833f586b7d2ee2bd5f55083",
-      "download_count": 21,
+      "download_count": 25,
       "created_at": "2026-10-08T02:58:47Z",
       "updated_at": "2026-10-08T02:58:48Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-1-x86_64.pkg.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9026189,
       "digest": "sha256:e1d66ac18d73b955b74df0939f23bd3e411152160da47391988542edaf1f3d79",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-08T02:58:57Z",
       "updated_at": "2026-10-08T02:58:58Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-r0.aarch64.apk"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4484050,
       "digest": "sha256:cf97fa4e300fee47eb0c1d0d014aef4800d2d9fb9dec8a780452837abf8e2b76",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-08T02:58:59Z",
       "updated_at": "2026-10-08T02:59:00Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-r0.x86.apk"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 24198136,
       "digest": "sha256:4f1f46a7c0cfd6e661582bc06b7a476e82a9e26deae79f017fef4ff7b7b46de3",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-08T02:59:04Z",
       "updated_at": "2026-10-08T02:59:05Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-linux-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 19169752,
       "digest": "sha256:d4411a73a77dd9d6a40969400eaf8d2a13caa3647e8a4199b0511671219b3eec",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-08T02:59:09Z",
       "updated_at": "2026-10-08T02:59:11Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-linux-arm64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 18581568,
       "digest": "sha256:7aa9fdbfc11668ba4b781d0f9a2b845f8601fd838f915fe1a887ad1b902e97cb",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-08T02:59:12Z",
       "updated_at": "2026-10-08T02:59:14Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-linux-arm64-musl"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 22401288,
       "digest": "sha256:302deb446f1a8b1dd4b8cff7ca349360f3f1fca6a137d06ba676fb358bb87788",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-08T02:59:18Z",
       "updated_at": "2026-10-08T02:59:20Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-macos-amd64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 18519776,
       "digest": "sha256:b3900fc029aa0ffbd577dd389ea75021bc5b4b67787d9e69163ae9c8100addb7",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-08T02:59:21Z",
       "updated_at": "2026-10-08T02:59:22Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-macos-arm64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 9305040,
       "digest": "sha256:abcaa6508cf7313a3605a8c1e481ddc12ec09bd96e10bee2577861e045bbdbb6",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-08T02:59:24Z",
       "updated_at": "2026-10-08T02:59:25Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-netbsd-amd64"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34404447,
       "digest": "sha256:047083c9a902d3123dd6f6f074127adc27638d217d9ffd9a81a7252772589d6b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-08T02:59:44Z",
       "updated_at": "2026-10-08T02:59:46Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-linux-amd64.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 32409896,
       "digest": "sha256:00c63e7784be519c9e0749aef604437ca1350b4862385434e0577047832f2a8e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-08T02:59:47Z",
       "updated_at": "2026-10-08T02:59:49Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-linux-arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 34938071,
       "digest": "sha256:643a5036a8db2c764d5f163142033a1b57f4866b8044a6e3b7200fa7a3da5b29",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-08T02:59:53Z",
       "updated_at": "2026-10-08T02:59:55Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-linux-i686.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 35428959,
       "digest": "sha256:7f2a195cdf98262b5891498cc6c7b5cea4fb335154ce57af0c06877496303269",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-08T03:00:04Z",
       "updated_at": "2026-10-08T03:00:06Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-macos-amd64.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 33652707,
       "digest": "sha256:b15d56bd9ab77e7daac420ec2e161b208de7e97f5f5756ad8ada468c1a4b40b0",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-08T03:00:07Z",
       "updated_at": "2026-10-08T03:00:09Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-macos-arm64.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 33076715,
       "digest": "sha256:a6e1205a91dac6ea45a0ea55f05bf5c68a7c13d600263432688686cd1592d6e7",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-08T03:00:14Z",
       "updated_at": "2026-10-08T03:00:16Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-windows-amd64.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 30621949,
       "digest": "sha256:6b069eac9c64f86873e2f8771c76ab8412ccc169f0ea6fe9a68ba6b85f8e2d2d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-08T03:00:17Z",
       "updated_at": "2026-10-08T03:00:19Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-windows-arm64.zip"
