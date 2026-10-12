@@ -47,12 +47,12 @@ Total: **57,669** lines of code across **250** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 2 | 4 | 1 | 0 | 0 | 5 |
-| last60d | 2026-08-12 | 10 | 15 | 1 | 4 | 0 | 16 |
-| 90d | 2026-07-13 | 10 | 15 | 1 | 4 | 0 | 49 |
-| last180d | 2026-04-14 | 15 | 24 | 1 | 5 | 0 | 79 |
-| 360d | 2025-10-16 | 20 | 37 | 1 | 12 | 0 | 126 |
-| last720d | 2024-10-21 | 39 | 108 | 1 | 56 | 0 | 567 |
+| 30d | 2026-09-12 | 2 | 4 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-13 | 10 | 15 | 1 | 4 | 0 | 16 |
+| 90d | 2026-07-14 | 10 | 15 | 1 | 4 | 0 | 49 |
+| last180d | 2026-04-15 | 15 | 24 | 1 | 5 | 0 | 79 |
+| 360d | 2025-10-17 | 20 | 37 | 1 | 12 | 0 | 126 |
+| last720d | 2024-10-22 | 39 | 108 | 1 | 56 | 0 | 567 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for lla lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:48:13Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:56:18Z._
