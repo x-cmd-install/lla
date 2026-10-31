@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9456441,
       "digest": "sha256:00eb6693d13421e9233ff9b1dfc77925b42e7f950833f586b7d2ee2bd5f55083",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-10-08T02:58:47Z",
       "updated_at": "2026-10-08T02:58:48Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-1-x86_64.pkg.tar.zst"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 27347456,
       "digest": "sha256:339b25e2be57180ff4f845cf72f41be2f3bf9c172496ffbd58c75f12ef8ec0d2",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-10-08T02:59:27Z",
       "updated_at": "2026-10-08T02:59:28Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-windows-amd64.exe"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34404447,
       "digest": "sha256:047083c9a902d3123dd6f6f074127adc27638d217d9ffd9a81a7252772589d6b",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-10-08T02:59:44Z",
       "updated_at": "2026-10-08T02:59:46Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-linux-amd64.zip"
