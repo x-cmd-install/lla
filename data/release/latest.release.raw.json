@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8321279,
       "digest": "sha256:d01ec471372daec9713a8bf0b7aa285199cf16326cb51482d7684c7159911e21",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-08T02:58:43Z",
       "updated_at": "2026-10-08T02:58:44Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-1-aarch64.pkg.tar.zst"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4277778,
       "digest": "sha256:d0f8ee21fd61744eecf0045fe1f39fd14831feff153060138f30906e5ae67a1e",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-08T02:58:45Z",
       "updated_at": "2026-10-08T02:58:46Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-1-i686.pkg.tar.zst"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9456441,
       "digest": "sha256:00eb6693d13421e9233ff9b1dfc77925b42e7f950833f586b7d2ee2bd5f55083",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-10-08T02:58:47Z",
       "updated_at": "2026-10-08T02:58:48Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-1-x86_64.pkg.tar.zst"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8798123,
       "digest": "sha256:d19deead347b0717df528ae74c3603bef0a64ecbb2df4ca5fa768f9ae3eaad32",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-08T02:58:50Z",
       "updated_at": "2026-10-08T02:58:51Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-1.aarch64.rpm"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34404447,
       "digest": "sha256:047083c9a902d3123dd6f6f074127adc27638d217d9ffd9a81a7252772589d6b",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-10-08T02:59:44Z",
       "updated_at": "2026-10-08T02:59:46Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-linux-amd64.zip"
