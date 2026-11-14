@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9456441,
       "digest": "sha256:00eb6693d13421e9233ff9b1dfc77925b42e7f950833f586b7d2ee2bd5f55083",
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2026-10-08T02:58:47Z",
       "updated_at": "2026-10-08T02:58:48Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-0.6.6-1-x86_64.pkg.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 24198136,
       "digest": "sha256:4f1f46a7c0cfd6e661582bc06b7a476e82a9e26deae79f017fef4ff7b7b46de3",
-      "download_count": 90,
+      "download_count": 96,
       "created_at": "2026-10-08T02:59:04Z",
       "updated_at": "2026-10-08T02:59:05Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-linux-amd64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 21253120,
       "digest": "sha256:8c97cce1fce7b44bed1bb5303a681745e46330c58cdd271ad761eb35babf8a53",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-08T02:59:30Z",
       "updated_at": "2026-10-08T02:59:31Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/lla-windows-arm64.exe"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34404447,
       "digest": "sha256:047083c9a902d3123dd6f6f074127adc27638d217d9ffd9a81a7252772589d6b",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-10-08T02:59:44Z",
       "updated_at": "2026-10-08T02:59:46Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/plugins-linux-amd64.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 3097,
       "digest": "sha256:b836ef61bbd41098e99e2fa54509ccd01249b313ca82aaaa311709a60823ab60",
-      "download_count": 111,
+      "download_count": 113,
       "created_at": "2026-10-08T02:58:41Z",
       "updated_at": "2026-10-08T02:58:41Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.6.6/SHA256SUMS"
