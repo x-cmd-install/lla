@@ -14,15 +14,15 @@ x install lla
 
 ## Code insight
 
-Total: **68,587** lines of code across **266** files in the top 5 languages.
+Total: **68,644** lines of code across **266** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 59,479 | 515 | 5,869 | 144 |
+| Rust | 59,497 | 517 | 5,871 | 144 |
 | Toml | 6,503 | 23 | 965 | 112 |
-| Bash | 754 | 0 | 3 | 1 |
+| Bash | 771 | 0 | 3 | 1 |
 | Sh | 617 | 23 | 80 | 6 |
-| PowerShell | 542 | 2 | 23 | 3 |
+| PowerShell | 551 | 2 | 23 | 3 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **68,587** lines of code across **266** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.0` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 1,235 · **Forks**: 26 · **Open issues**: 58 · **Contributors**: 11
+- **Stars**: 1,235 · **Forks**: 26 · **Open issues**: 59 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 121 · **Open PRs**: 1 · **Closed issues**: 57 · **Open issues**: 1 · **Commits**: 651
+- **Releases**: 53 · **Merged PRs**: 124 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 2 · **Commits**: 657
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 7 | 1 | 0 | 1 | 16 |
-| last60d | 2026-09-18 | 5 | 12 | 1 | 0 | 1 | 20 |
-| 90d | 2026-08-19 | 7 | 16 | 1 | 2 | 1 | 22 |
-| last180d | 2026-05-21 | 15 | 26 | 1 | 5 | 1 | 74 |
-| 360d | 2025-11-22 | 21 | 38 | 1 | 10 | 1 | 117 |
-| last720d | 2024-11-27 | 41 | 100 | 1 | 51 | 1 | 587 |
+| 30d | 2026-10-20 | 3 | 10 | 0 | 0 | 2 | 19 |
+| last60d | 2026-09-20 | 5 | 15 | 0 | 0 | 2 | 23 |
+| 90d | 2026-08-21 | 6 | 15 | 0 | 0 | 2 | 25 |
+| last180d | 2026-05-23 | 15 | 29 | 0 | 5 | 2 | 77 |
+| 360d | 2025-11-24 | 21 | 41 | 0 | 10 | 2 | 120 |
+| last720d | 2024-11-29 | 39 | 101 | 0 | 50 | 2 | 554 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for lla lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:23:12Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:36:01Z._
