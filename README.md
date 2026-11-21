@@ -14,11 +14,11 @@ x install lla
 
 ## Code insight
 
-Total: **68,644** lines of code across **266** files in the top 5 languages.
+Total: **68,880** lines of code across **267** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 59,497 | 517 | 5,871 | 144 |
+| Rust | 59,733 | 527 | 5,888 | 145 |
 | Toml | 6,503 | 23 | 965 | 112 |
 | Bash | 771 | 0 | 3 | 1 |
 | Sh | 617 | 23 | 80 | 6 |
@@ -32,69 +32,69 @@ Total: **68,644** lines of code across **266** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.0` (2026-11-16)
-- **Last commit**: 2026-11-18
+- **Latest**: `v0.9.2` (2026-11-20)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 1,234 · **Forks**: 26 · **Open issues**: 59 · **Contributors**: 11
+- **Stars**: 1,235 · **Forks**: 26 · **Open issues**: 59 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 124 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 2 · **Commits**: 657
+- **Releases**: 54 · **Merged PRs**: 126 · **Open PRs**: 0 · **Closed issues**: 58 · **Open issues**: 1 · **Commits**: 661
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 3 | 10 | 0 | 0 | 2 | 19 |
-| last60d | 2026-09-21 | 5 | 13 | 0 | 0 | 2 | 23 |
-| 90d | 2026-08-22 | 5 | 15 | 0 | 0 | 2 | 25 |
-| last180d | 2026-05-24 | 15 | 29 | 0 | 5 | 2 | 77 |
-| 360d | 2025-11-25 | 21 | 41 | 0 | 10 | 2 | 120 |
-| last720d | 2024-11-30 | 39 | 97 | 0 | 50 | 2 | 552 |
+| 30d | 2026-10-22 | 4 | 12 | 0 | 1 | 1 | 21 |
+| last60d | 2026-09-22 | 5 | 15 | 0 | 1 | 1 | 25 |
+| 90d | 2026-08-23 | 6 | 17 | 0 | 1 | 1 | 27 |
+| last180d | 2026-05-25 | 16 | 31 | 0 | 6 | 1 | 79 |
+| 360d | 2025-11-26 | 22 | 43 | 0 | 11 | 1 | 122 |
+| last720d | 2024-12-01 | 39 | 99 | 0 | 51 | 1 | 521 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lla-0.9.0-1-aarch64.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-1-aarch64.pkg.tar.zst) | 8.8 MiB | `other` |
-| [lla-0.9.0-1-i686.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-1-i686.pkg.tar.zst) | 5.1 MiB | `other` |
-| [lla-0.9.0-1-x86_64.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-1-x86_64.pkg.tar.zst) | 10.0 MiB | `other` |
-| [lla-0.9.0-1.aarch64.rpm](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-1.aarch64.rpm) | 9.5 MiB | `runtime/rpm/aarch64` |
-| [lla-0.9.0-1.i686.rpm](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-1.i686.rpm) | 5.3 MiB | `runtime/rpm/i686` |
-| [lla-0.9.0-1.x86_64.rpm](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-1.x86_64.rpm) | 10.7 MiB | `runtime/rpm/x86_64` |
-| [lla-0.9.0-r0.aarch64.apk](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-r0.aarch64.apk) | 9.5 MiB | `other` |
-| [lla-0.9.0-r0.x86.apk](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-r0.x86.apk) | 5.3 MiB | `other` |
-| [lla-0.9.0-r0.x86_64.apk](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-0.9.0-r0.x86_64.apk) | 10.9 MiB | `other` |
-| [lla-linux-amd64](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-linux-amd64) | 25.1 MiB | `native/linux/x64` |
-| [lla-linux-amd64-musl](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-linux-amd64-musl) | 24.5 MiB | `native/linux/x64/musl` |
-| [lla-linux-arm64](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-linux-arm64) | 20.0 MiB | `native/linux/arm64` |
-| [lla-linux-arm64-musl](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-linux-arm64-musl) | 19.4 MiB | `native/linux/arm64/musl` |
-| [lla-linux-i686](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-linux-i686) | 10.6 MiB | `native/linux/x86` |
-| [lla-macos-amd64](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-macos-amd64) | 23.5 MiB | `native/darwin/x64` |
-| [lla-macos-arm64](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-macos-arm64) | 19.6 MiB | `native/darwin/arm64` |
-| [lla-netbsd-amd64](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-netbsd-amd64) | 10.9 MiB | `other` |
-| [lla-windows-amd64.exe](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-windows-amd64.exe) | 28.6 MiB | `native/win/x64` |
-| [lla-windows-arm64.exe](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla-windows-arm64.exe) | 22.3 MiB | `native/win/arm64` |
-| [lla_0.9.0_amd64.deb](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla_0.9.0_amd64.deb) | 10.5 MiB | `runtime/deb/amd64` |
-| [lla_0.9.0_arm64.deb](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla_0.9.0_arm64.deb) | 9.3 MiB | `runtime/deb/arm64` |
-| [lla_0.9.0_i386.deb](https://github.com/chaqchase/lla/releases/download/v0.9.0/lla_0.9.0_i386.deb) | 5.1 MiB | `runtime/deb/i386` |
-| [plugins-linux-amd64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-linux-amd64.tar.gz) | 33.0 MiB | `native/linux/x64` |
-| [plugins-linux-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-linux-amd64.zip) | 32.9 MiB | `native/linux/x64` |
-| [plugins-linux-arm64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-linux-arm64.tar.gz) | 31.1 MiB | `native/linux/arm64` |
-| [plugins-linux-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-linux-arm64.zip) | 31.0 MiB | `native/linux/arm64` |
-| [plugins-linux-i686.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-linux-i686.tar.gz) | 33.4 MiB | `native/linux/x86` |
-| [plugins-linux-i686.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-linux-i686.zip) | 33.3 MiB | `native/linux/x86` |
-| [plugins-macos-amd64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-macos-amd64.tar.gz) | 34.0 MiB | `native/darwin/x64` |
-| [plugins-macos-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-macos-amd64.zip) | 33.9 MiB | `native/darwin/x64` |
-| [plugins-macos-arm64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-macos-arm64.tar.gz) | 32.3 MiB | `native/darwin/arm64` |
-| [plugins-macos-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-macos-arm64.zip) | 32.2 MiB | `native/darwin/arm64` |
-| [plugins-windows-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-windows-amd64.zip) | 31.8 MiB | `native/win/x64` |
-| [plugins-windows-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/plugins-windows-arm64.zip) | 29.4 MiB | `native/win/arm64` |
-| [SHA256SUMS](https://github.com/chaqchase/lla/releases/download/v0.9.0/SHA256SUMS) | 3.0 KiB | `other` |
-| [themes.zip](https://github.com/chaqchase/lla/releases/download/v0.9.0/themes.zip) | 32.4 KiB | `other` |
+| [lla-0.9.2-1-aarch64.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1-aarch64.pkg.tar.zst) | 8.8 MiB | `other` |
+| [lla-0.9.2-1-i686.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1-i686.pkg.tar.zst) | 5.1 MiB | `other` |
+| [lla-0.9.2-1-x86_64.pkg.tar.zst](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1-x86_64.pkg.tar.zst) | 10.0 MiB | `other` |
+| [lla-0.9.2-1.aarch64.rpm](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1.aarch64.rpm) | 9.5 MiB | `runtime/rpm/aarch64` |
+| [lla-0.9.2-1.i686.rpm](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1.i686.rpm) | 5.3 MiB | `runtime/rpm/i686` |
+| [lla-0.9.2-1.x86_64.rpm](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1.x86_64.rpm) | 10.7 MiB | `runtime/rpm/x86_64` |
+| [lla-0.9.2-r0.aarch64.apk](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-r0.aarch64.apk) | 9.5 MiB | `other` |
+| [lla-0.9.2-r0.x86.apk](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-r0.x86.apk) | 5.3 MiB | `other` |
+| [lla-0.9.2-r0.x86_64.apk](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-r0.x86_64.apk) | 10.9 MiB | `other` |
+| [lla-linux-amd64](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-linux-amd64) | 25.1 MiB | `native/linux/x64` |
+| [lla-linux-amd64-musl](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-linux-amd64-musl) | 24.5 MiB | `native/linux/x64/musl` |
+| [lla-linux-arm64](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-linux-arm64) | 20.0 MiB | `native/linux/arm64` |
+| [lla-linux-arm64-musl](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-linux-arm64-musl) | 19.4 MiB | `native/linux/arm64/musl` |
+| [lla-linux-i686](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-linux-i686) | 10.6 MiB | `native/linux/x86` |
+| [lla-macos-amd64](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-macos-amd64) | 23.5 MiB | `native/darwin/x64` |
+| [lla-macos-arm64](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-macos-arm64) | 19.6 MiB | `native/darwin/arm64` |
+| [lla-netbsd-amd64](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-netbsd-amd64) | 10.9 MiB | `other` |
+| [lla-windows-amd64.exe](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-windows-amd64.exe) | 28.6 MiB | `native/win/x64` |
+| [lla-windows-arm64.exe](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-windows-arm64.exe) | 22.3 MiB | `native/win/arm64` |
+| [lla_0.9.2_amd64.deb](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla_0.9.2_amd64.deb) | 10.5 MiB | `runtime/deb/amd64` |
+| [lla_0.9.2_arm64.deb](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla_0.9.2_arm64.deb) | 9.3 MiB | `runtime/deb/arm64` |
+| [lla_0.9.2_i386.deb](https://github.com/chaqchase/lla/releases/download/v0.9.2/lla_0.9.2_i386.deb) | 5.1 MiB | `runtime/deb/i386` |
+| [plugins-linux-amd64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-linux-amd64.tar.gz) | 33.0 MiB | `native/linux/x64` |
+| [plugins-linux-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-linux-amd64.zip) | 32.9 MiB | `native/linux/x64` |
+| [plugins-linux-arm64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-linux-arm64.tar.gz) | 31.1 MiB | `native/linux/arm64` |
+| [plugins-linux-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-linux-arm64.zip) | 31.0 MiB | `native/linux/arm64` |
+| [plugins-linux-i686.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-linux-i686.tar.gz) | 33.4 MiB | `native/linux/x86` |
+| [plugins-linux-i686.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-linux-i686.zip) | 33.3 MiB | `native/linux/x86` |
+| [plugins-macos-amd64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-macos-amd64.tar.gz) | 34.0 MiB | `native/darwin/x64` |
+| [plugins-macos-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-macos-amd64.zip) | 33.9 MiB | `native/darwin/x64` |
+| [plugins-macos-arm64.tar.gz](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-macos-arm64.tar.gz) | 32.3 MiB | `native/darwin/arm64` |
+| [plugins-macos-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-macos-arm64.zip) | 32.2 MiB | `native/darwin/arm64` |
+| [plugins-windows-amd64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-windows-amd64.zip) | 31.7 MiB | `native/win/x64` |
+| [plugins-windows-arm64.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-windows-arm64.zip) | 29.4 MiB | `native/win/arm64` |
+| [SHA256SUMS](https://github.com/chaqchase/lla/releases/download/v0.9.2/SHA256SUMS) | 3.0 KiB | `other` |
+| [themes.zip](https://github.com/chaqchase/lla/releases/download/v0.9.2/themes.zip) | 32.4 KiB | `other` |
 
 ## Improve this data
 
@@ -105,4 +105,4 @@ Install metadata for lla lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:07:19Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:25:03Z._
