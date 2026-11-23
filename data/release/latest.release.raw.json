@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9277455,
       "digest": "sha256:dcddda0c6ca807e984723ef83613a36a9bcdb76c289db99dfa9fe6ce3d269035",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-20T16:59:48Z",
       "updated_at": "2026-11-20T16:59:49Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1-aarch64.pkg.tar.zst"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10461297,
       "digest": "sha256:ebd7176e22fdccf4621bb1b5c8ef2938653b224ff8f5ff8c086439a43eb90caf",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-11-20T16:59:52Z",
       "updated_at": "2026-11-20T16:59:53Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.9.2/lla-0.9.2-1-x86_64.pkg.tar.zst"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 34503886,
       "digest": "sha256:32fb7caeb693b11b1beb3142fb3ccda6cb857705a37df8568287d4dd6871b3ab",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-20T17:00:41Z",
       "updated_at": "2026-11-20T17:00:44Z",
       "browser_download_url": "https://github.com/chaqchase/lla/releases/download/v0.9.2/plugins-linux-amd64.zip"
